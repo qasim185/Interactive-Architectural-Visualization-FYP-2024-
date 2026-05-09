@@ -5,7 +5,7 @@
 
 ## Installation & Demo
 1.  Navigate to the Google Drive
-2.  
+2.  https://drive.google.com/drive/folders/1SnNNIIUm9DIY_OStkxcK8Y7F-Awpsp2k?usp=sharing
 3.  Download the latest `.zip` file (approx 1.5GB).
 4.  Extract the folder and run the `.exe` file.
     *Note: Requires a DirectX 12 compatible GPU for best performance.*
